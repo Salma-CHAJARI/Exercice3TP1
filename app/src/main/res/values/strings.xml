@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exercice3TP1</string>
+    <string name="qt1">Quel est le fichier principal pour définir le layout d\'une activité ?</string>
+    <string name="qt1r1"> AndroidManifest.xml</string>
+    <string name="qt1r2"> activity_main.xml</string>
+    <string name="qt1r3"> strings.xml</string>
+    <string name="qt1r4"> build.gradle</string>
+    <string name="qt6">Est-ce que les services Android peuvent fonctionner en arrière-plan sans interface utilisateur ?</string>
+    <string name="note">Vous avez obtenez dans ce test:</string>
+    <string name="reponsec">Les réponses correcte sont:</string>
+    <string name="rpns1">Question1: activity_main.xml</string>
+    <string name="rpns2">Question2: Oui</string>
+
+</resources>
