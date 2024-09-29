@@ -27,7 +27,6 @@ L'objectif de ce projet est de se familiariser avec la notion de navigation en u
 - Java Development Kit (JDK)
 - Fichiers XML nécessaires pour la mise en page, incluant :
   - `activity_main.xml` (pour l'interface principale)
-  - `activity_results.xml` (pour l'affichage des résultats)
 
 ## Installation
 
